@@ -34,12 +34,6 @@ anythin inside a set of brackets will represents characters we want to match, if
 
 on matching '|' this character means or operator so if we're looking for anything between (1-3) we cound use (1|2|3)
 
-### Flags
-
-no match
-
-### Character Escapes
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
